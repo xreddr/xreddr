@@ -1,5 +1,6 @@
 Welcome
 =======
+
 I like to clickity clack on my laptop and IDE's make text really colorful so I started writing more.
 The code eventually did something, which was cool, so I started learning more:
 - HTML
@@ -20,6 +21,8 @@ The work is getting more expansive and so to direct my work and track progress I
 
 Projects
 --------
+
 Look further and you will find:
-- CrawlDir/ A self-taught project using file handling, collection sorting, and user inputs.
+- crawlDir/ A self-taught project using file handling, collection sorting, and user inputs.
+- gitScore/ A file counting project.
 - xreddr.github.io/ A basic web-site that is in a working stage, somewhat of a mess depending on when you check. 
