@@ -23,6 +23,7 @@ Projects
 --------
 
 Look further and you will find:
+- blackjack/ A simple game of blackjack. This is not complete.
 - crawlDir/ A self-taught project using file handling, collection sorting, and user inputs.
 - dice/ A simple dice game, probably at some point of working expansion. 
 - gitScore/ A file counting project.
