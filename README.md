@@ -3,16 +3,16 @@
 Welcome
 =======
 
-The code I like to write:
+The code I like to write:  
 | Python | Javascript | SASS |
 
-The additional technologies I am familiar with: 
+The additional technologies I am familiar with:  
 | Flask | PostreSQL | SQL Alchemy | Docker | Tkinter | Canvas |
 
-CLI's:
+CLI's:  
 | Git Bash | Windows CL | MacOS Terminal |
 
-IED's:
+IED's:  
 | VS Code | Komodo Edit |
 
 
