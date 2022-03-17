@@ -1,4 +1,4 @@
-<!-- ![alt text](https://github.com/xreddr/xreddr/blob/main/images/gitmainbanner.png) -->
+![alt text](https://github.com/xreddr/xreddr/blob/main/images/gitmainbanner.png)
 
 Welcome
 =======
