@@ -3,23 +3,18 @@
 Welcome
 =======
 
-I like to clickity clack on my laptop and IDE's make text really colorful so I started writing more.
-The code eventually did something, which was cool, so I started learning more:
-- HTML
-- CSS
+The code I like to write:
+| Python | Javascript | SASS |
 
-Now that I could create spaces and objects I wanted to interact with and manipulate them so I started learning:
-- SASS
-- PY
+The additional technologies I am familiar with: 
+| Flask | PostreSQL | SQL Alchemy | Docker | Tkinter | Canvas |
 
-Python is a step in a different dirrection but I would like to apply what I've learned to:
-- JS
-- SQL
+CLI's:
+| Git Bash | Windows CL | MacOS Terminal |
 
-The work is getting more expansive and so to direct my work and track progress I downloaded:
-- Git
+IED's:
+| VS Code | Komodo Edit |
 
-"Hello World!"
 
 Projects
 --------
