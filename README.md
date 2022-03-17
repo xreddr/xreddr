@@ -1,3 +1,5 @@
+![alt text](https://github.com/xreddr/xreddr.github.io/blob/master/images/whalesharktitle.png)
+
 Welcome
 =======
 
