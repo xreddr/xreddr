@@ -19,7 +19,7 @@ IED's:
 Projects
 --------
 [<img src="https://github.com/xreddr/xreddr/blob/main/images/cdbannerslim.png">](https://github.com/xreddr/crawl_dir)
-Please check out [crawl_dir](https://github.com/xreddr/crawl_dir). A CLI CRUD application written in native python that records and compares timestamped directory contents.
+| Python | Please check out [crawl_dir](https://github.com/xreddr/crawl_dir). A CLI CRUD application written in native python that records and compares timestamped directory contents.
 
 Look further and you will find:
 - blackjack/ A simple game of blackjack. This is not complete.
