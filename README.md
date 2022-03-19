@@ -18,6 +18,12 @@ IDE's:
 
 Projects
 --------
+[<img src="https://github.com/xreddr/xreddr/blob/main/images/BlogBuildbannerslim.png">](https://github.com/xreddr/blog_build)
+| Python | Flask | PostgreSQL | SQLalchemy | Docker |  
+  
+A development stage blog build for small websites. Project can be recreated but is configured to access a Postgres database. Has a simple front end included to view in browser. [Blog Build](https://github.com/xreddr/blog_build) can be viewed here.  
+  
+  
 [<img src="https://github.com/xreddr/xreddr/blob/main/images/cdbannerslim.png">](https://github.com/xreddr/crawl_dir)
 | Python |  
   
