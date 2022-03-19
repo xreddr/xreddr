@@ -1,4 +1,4 @@
-[<img src="https://github.com/xreddr/xreddr/blob/main/images/gitmainbanner.png">]()
+[<img src="https://github.com/xreddr/xreddr/blob/main/images/gitmainbanner.png">](https://github.com/xreddr)
 
 Welcome
 =======
