@@ -19,9 +19,10 @@ IED's:
 Projects
 --------
 
+Please check out [crawl_dir](https://github.com/xreddr/crawl_dir). A CLI CRUD application written in native python that records and compares timestamped directory contents.
+
 Look further and you will find:
 - blackjack/ A simple game of blackjack. This is not complete.
-- crawlDir/ A self-taught project using file handling, collection sorting, and user inputs.
 - dice/ A simple dice game, probably at some point of working expansion. 
 - gitScore/ A file counting project.
 - xreddr.github.io/ A basic web-site that is in a working stage, somewhat of a mess depending on when you check. 
