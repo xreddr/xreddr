@@ -4,7 +4,7 @@ Welcome
 =======
 
 Please enjoy your stay. If you need a break try playing a game from my repositories:  
-<a href="https://htmlpreview.github.io/?https://github.com/xreddr/pong/blob/main/index.html" target="_blank">Pong</>a w = up, s = down.  
+<a href="https://htmlpreview.github.io/?https://github.com/xreddr/pong/blob/main/index.html" target="_blank">Pong</a> w = up, s = down.  
 Click the project banners to navigate to that projects repository.  
 
 The code I like to write:  
