@@ -41,7 +41,8 @@ Please check out [crawl_dir](https://github.com/xreddr/crawl_dir). A CLI CRUD ap
 
 For Your Entertainment
 ----------------------
-These are some mini projects you can enjoy. Thank you for your visit.  
+These are some mini projects you can enjoy. 
+These links will take you off page so please finish viewing my repositories first. Thank you for your visit.  
 
 <a href="https://htmlpreview.github.io/?https://github.com/xreddr/pong/blob/main/index.html" target="_blank">Pong</a> (Controls: w = up, s = down)  
 <a href="https://htmlpreview.github.io/?https://github.com/xreddr/blackjack/blob/main/index.html" target="_blank">Blackjack</a>  
