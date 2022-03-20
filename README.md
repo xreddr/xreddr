@@ -3,9 +3,8 @@
 Welcome
 =======
 
-Please enjoy your stay. If you need a break try playing a game from my repositories:  
-<a href="https://htmlpreview.github.io/?https://github.com/xreddr/pong/blob/main/index.html" target="_blank">Pong</a> w = up, s = down.  
-Click the project banners to navigate to that projects repository.  
+Please enjoy your stay. Click the project banners to navigate to that projects repository. After viewing, please take time to play a game at the bottom of this page.
+
 
 The code I like to write:  
 | Python | Javascript | SASS |
@@ -40,8 +39,10 @@ Please check out [crawl_dir](https://github.com/xreddr/crawl_dir). A CLI CRUD ap
 [GameBrah](https://github.com/xreddr/GameBrah) is a passion project of mine. It's a retro style game controller for touch screens designed for phones. This is a spare time project that makes slow progress but I would love to discuss it.  
   
 
-Look further and you will find:
-- blackjack/ A simple game of blackjack. This is not complete.
-- dice/ A simple dice game, probably at some point of working expansion. 
-- gitScore/ A file counting project.
-- xreddr.github.io/ A basic web-site that is in a working stage, somewhat of a mess depending on when you check. 
+For Your Entertainment
+----------------------
+These are some mini projects you can enjoy. Thank you for your visit.  
+
+<a href="https://htmlpreview.github.io/?https://github.com/xreddr/pong/blob/main/index.html" target="_blank">Pong</a> (Controls: w = up, s = down)
+<a href="https://htmlpreview.github.io/?https://github.com/xreddr/blackjack/blob/main/index.html" target="_blank">Blackjack</a>
+<a href="https://htmlpreview.github.io/?https://github.com/xreddr/dice/blob/main/index.html" target="_blank">Dice</a>  
