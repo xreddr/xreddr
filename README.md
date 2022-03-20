@@ -3,7 +3,8 @@
 Welcome
 =======
 
-Please enjoy your stay. Maybe start off with a game like [pong](https://htmlpreview.github.io/?https://github.com/xreddr/pong/blob/main/index.html).  
+Please enjoy your stay. If you need a break try playing a game from my repositories:  
+[pong](https://htmlpreview.github.io/?https://github.com/xreddr/pong/blob/main/index.html){:target="\_blank"} w = up, s = down.  
 Click the project banners to navigate to that projects repository.  
 
 The code I like to write:  
