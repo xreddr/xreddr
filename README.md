@@ -3,6 +3,9 @@
 Welcome
 =======
 
+Please enjoy your stay. Maybe start off with a game like [pong](https://htmlpreview.github.io/?https://github.com/xreddr/pong/blob/main/index.html).  
+Click the project banners to navigate to that projects repository.  
+
 The code I like to write:  
 | Python | Javascript | SASS |
 
