@@ -19,28 +19,27 @@ IDE's:
 | VS Code | Komodo Edit |
 
 
-Projects
+Web Apps
 --------
 [<img src="https://github.com/xreddr/xreddr/blob/main/images/BlogBuildbannerslim.png">](https://github.com/xreddr/blog_build)
 | Python | Flask | PostgreSQL | SQLalchemy | Docker |  
   
 A development stage blog build for small websites. Project can be recreated but is configured to access a Postgres database. Has a simple front end included to view in browser. [Blog Build](https://github.com/xreddr/blog_build) can be viewed here.  
   
-  
+Desktop Apps
+------------
 [<img src="https://github.com/xreddr/xreddr/blob/main/images/cdbannerslim.png">](https://github.com/xreddr/crawl_dir)
 | Python |  
   
 Please check out [crawl_dir](https://github.com/xreddr/crawl_dir). A CLI CRUD application written in native python that records and compares timestamped directory contents.  
   
-  
+Games
+-----
 [<img src="https://github.com/xreddr/xreddr/blob/main/images/GameBrahbannerslim.png">](https://github.com/xreddr/GameBrah)
 | Javascript | CSS | Canvas |  
   
 [GameBrah](https://github.com/xreddr/GameBrah) is a passion project of mine. It's a retro style game controller for touch screens designed for phones. This is a spare time project that makes slow progress but I would love to discuss it.  
   
-
-For Your Entertainment
-----------------------
 These are some mini projects you can enjoy. 
 These links will take you off page so please finish viewing my repositories first. Thank you for your visit.  
 
