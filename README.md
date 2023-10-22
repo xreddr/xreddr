@@ -1,5 +1,5 @@
 [<img src="images/gitmainbanner.png">](https://github.com/xreddr)
-
+<!-- 
 Welcome
 =======
 
@@ -45,4 +45,4 @@ These links will take you off page so please finish viewing my repositories firs
 
 <a href="https://htmlpreview.github.io/?https://github.com/xreddr/pong/blob/main/index.html" target="_blank">Pong</a> (Controls: w = up, s = down)  
 <a href="https://htmlpreview.github.io/?https://github.com/xreddr/blackjack/blob/main/index.html" target="_blank">Blackjack</a>  
-<a href="https://htmlpreview.github.io/?https://github.com/xreddr/dice/blob/main/index.html" target="_blank">Dice</a>  
+<a href="https://htmlpreview.github.io/?https://github.com/xreddr/dice/blob/main/index.html" target="_blank">Dice</a>   -->
